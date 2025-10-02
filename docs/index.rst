@@ -16,6 +16,11 @@ ci_course_tobyokeefe documentation
 
    Pigs can surf! 
 
+.. figure:: Surfing-Zebra.jpg 
+   ::class: with-border
+
+   It's a surfing Zebra!
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
