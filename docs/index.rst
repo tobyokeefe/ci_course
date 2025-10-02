@@ -9,8 +9,12 @@ ci_course_tobyokeefe documentation
 .. figure:: dogsurfing.jpeg
    :class: with-border
 
-   Dogs can surf!
+   Dogs can surf!  
 
+.. figure:: surfingpig.jpg
+   :class: with-border
+
+   Pigs can surf! 
 
 .. toctree::
    :maxdepth: 2
