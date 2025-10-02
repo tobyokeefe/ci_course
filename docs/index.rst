@@ -17,7 +17,7 @@ ci_course_tobyokeefe documentation
    Pigs can surf! 
 
 .. figure:: Surfing-Zebra.jpg 
-   ::class: with-border
+   :class: with-border
 
    It's a surfing Zebra!
 
